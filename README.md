@@ -1,5 +1,15 @@
 # 💫 About Me:
-🔭 I’m currently working on web apps and AI-integrated projects.<br>👯 I’m looking to collaborate on innovative AI/ML research or full-stack development projects.<br>🤝 I’m looking for help with exploring new frameworks in Full-Stack development and advanced Machine Learning models.<br>🌱 I’m currently learning advanced AI/ML concepts and scaling my full-stack development skills.<br>💬 Ask me about Java(Basic), Python, HTML/CSS, or my journey as a CSE student!<br>⚡ Fun fact I enjoy combining the logic of backend development with the creativity of AI to build smarter solutions.
+ I am currently working on web apps and Artificial Intelligence integrated projects.
+
+ I want to work on new Artificial Intelligence and Machine Learning research or full stack development projects.
+
+ I need help with learning frameworks in Full Stack development and advanced Machine Learning models.
+
+ I am currently learning Artificial Intelligence and Machine Learning concepts and getting better at full stack development.
+
+ Ask me about Java, Python, HTML and CSS or my time, as a Computer Science and Engineering student.
+
+ Fun fact is that I like combining the logic of backend development with the creativity of Artificial Intelligence to build solutions.
 
 
 ## 🌐 Socials:
