@@ -13,6 +13,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:22D3EE&height=120&section=header" width="100%"/>
 
+<!-- Contribution snake — requires the snake.yml GitHub Action to generate this file -->
+<img src="https://raw.githubusercontent.com/yashu440/yashu440/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
 </div>
 
 ## 🚀 About Me
@@ -124,6 +127,35 @@ A web platform using **generative AI** to deliver personalized, adaptive learnin
 <img src="https://img.shields.io/badge/Adobe%20Lightroom-7C3AED?style=for-the-badge&logo=adobelightroom&logoColor=white" />
 
 </div>
+
+---
+
+## ⚡ Skill Proficiency
+
+<div align="center">
+
+| Skill | Proficiency |
+|---|---|
+| Python | ![](https://progress-bar.dev/85/?color=7C3AED&width=200) |
+| Java | ![](https://progress-bar.dev/70/?color=7C3AED&width=200) |
+| Flask / Django | ![](https://progress-bar.dev/75/?color=22D3EE&width=200) |
+| Machine Learning | ![](https://progress-bar.dev/65/?color=22D3EE&width=200) |
+| HTML / CSS | ![](https://progress-bar.dev/80/?color=7C3AED&width=200) |
+| SQL | ![](https://progress-bar.dev/70/?color=22D3EE&width=200) |
+
+> 📌 These percentages are placeholders — adjust the numbers in the URLs to reflect your real comfort level with each skill.
+
+</div>
+
+---
+
+## 🏆 Competitive Programming
+
+<div align="center">
+<img src="https://leetcard.jacoblin.cool/yashu440?theme=dark&font=Fira%20Code&ext=heatmap" />
+</div>
+
+> 📌 Swap `yashu440` in the URL above for your actual LeetCode username so the card pulls your real stats.
 
 ---
 
