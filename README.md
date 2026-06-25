@@ -1,95 +1,164 @@
-<h1 align="center">Hi 👋, I'm Sampathi yaswanth</h1>
-<h3 align="center">Computer Science (CSE) student building at the intersection of Full-Stack Development and AI/ML</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/sampathi-yaswanth"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<!-- Animated typing intro -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sampathi+Yaswanth;CSE+Student+%7C+Full-Stack+Developer;AI+%2F+ML+Enthusiast;Building+at+the+Intersection+of+Code+%26+Intelligence" alt="Typing SVG" />
+</a>
+
+<p>
+  <a href="https://linkedin.com/in/sampathi-yaswanth"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:yaswanthsampathi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://visitcount.itsvg.in"><img src="https://img.shields.io/badge/Profile%20Views-itsvg-000000?style=for-the-badge&logo=googleanalytics&logoColor=white" /></a>
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header" width="100%"/>
+
+</div>
+
+## 🚀 About Me
+
+```python
+class Yaswanth:
+    def __init__(self):
+        self.role = "CSE Student @ Kalasalingam Academy of Research and Education"
+        self.focus = ["Full-Stack Development", "AI / ML Research"]
+        self.currently_building = "Web apps with integrated AI features"
+        self.currently_learning = ["Advanced ML models", "Modern full-stack frameworks"]
+        self.fun_fact = "I combine backend logic with the creativity of AI to build solutions"
+
+    def ask_me_about(self):
+        return ["Java", "Python", "HTML/CSS", "Full-Stack Dev", "my CSE journey"]
+```
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🎯 Currently**
+- 🔭 Building AI-integrated web applications
+- 🌱 Leveling up in advanced ML & full-stack frameworks
+- 🤝 Open to AI/ML research & full-stack collaborations
+- 💬 Reach out for anything Java, Python, or web dev
+
+</td>
+<td width="50%" valign="top">
+
+**📈 Goals**
+- 🎓 Deepen expertise in applied Machine Learning
+- 🛠️ Ship production-grade full-stack + AI projects
+- 📚 Contribute to open-source AI/ML tooling
+- 🚀 Land impactful research / dev opportunities
+
+</td>
+</tr>
+</table>
+
 ---
 
-### 🚀 About Me
+## 🛠️ Featured Projects
 
-- 🎓 CSE student at **Kalasalingam Academy of Research and Education**
-- 🧠 Exploring **AI/ML research** and **full-stack development** projects
-- 🔭 Currently building web apps with AI integrated into them
-- 🌱 Leveling up in advanced ML models and modern full-stack frameworks
-- ⚡ Fun fact: I like combining backend logic with the creativity of AI to build solutions
-- 💬 Ask me about: **Java • Python • HTML/CSS • Full-Stack Dev • my CSE journey**
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### ♟️ Chess Engine
+Move evaluation engine using **minimax with alpha-beta pruning** for efficient, intelligent gameplay.
+
+`Python` `Algorithms` `Game AI`
+
+[🔗 View Repo](https://github.com/yashu440/chess-engine)
+
+</td>
+<td width="33%" valign="top">
+
+### ✅ Task Manager
+A desktop productivity app with full **CRUD** support and persistent local storage.
+
+`Python` `SQLite` `Tkinter`
+
+[🔗 View Repo](https://github.com/yashu440/task-manager)
+
+</td>
+<td width="33%" valign="top">
+
+### 🤖 GenAI Learning Platform
+A web platform using **generative AI** to deliver personalized, adaptive learning experiences.
+
+`Flask` `Python` `GenAI`
+
+[🔗 View Repo](https://github.com/yashu440/genai-learning-platform)
+
+</td>
+</tr>
+</table>
+
+> 📌 Replace the placeholder repo links above with your actual GitHub URLs so each card is clickable.
 
 ---
 
-### 🛠️ Featured Projects
+## 💻 Tech Stack
 
-| Project | Description | Tech |
-|---|---|---|
-| **Chess Engine** | A chess engine implementing minimax with alpha-beta pruning for move evaluation | `Python` |
-| **Task Manager** | A desktop task management app with persistent storage | `Python` `SQLite` `Tkinter` |
-| **Generative AI Learning Platform** | A web platform that uses generative AI to support personalized learning | `Flask` `Python` |
-
-> 📌 *Tip: link each of these directly to its repo (e.g. `[Chess Engine](https://github.com/yashu440/your-repo)`) so visitors can jump straight in.*
-
----
-
-### 💻 Tech Stack
+<div align="center">
 
 **Languages**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<br/>
+<img src="https://skillicons.dev/icons?i=python,java,html,css,js&theme=dark" />
 
 **Frameworks & Backend**
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+<br/>
+<img src="https://skillicons.dev/icons?i=django,flask,nodejs,bootstrap,flutter&theme=dark" />
 
 **AI / ML / Data**
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+<br/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,anaconda&theme=dark" /> &nbsp;
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 
-**Cloud, Hosting & Tools**
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+**Cloud, Hosting & DevOps**
+<br/>
+<img src="https://skillicons.dev/icons?i=firebase,supabase,vercel,netlify,git,github&theme=dark" />
 
 **Design**
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
+<br/>
+<img src="https://skillicons.dev/icons?i=canva&theme=dark" /> &nbsp;
+<img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white" />
+
+</div>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yashu440&theme=swift&hide_border=false&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashu440&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</p>
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=yashu440&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashu440&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+</div>
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=yashu440&theme=swift&hide_border=false" />
-</p>
+<div align="center">
+<img src="https://nirzak-streak-stats.vercel.app/?user=yashu440&theme=tokyonight&hide_border=true" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashu440&theme=react-dark&hide_border=false" />
-</p>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashu440&theme=tokyo-night&hide_border=true" width="95%" />
+</div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=yashu440&theme=tokyonight&no-frame=true&row=1&column=6" />
+</div>
 
 ---
 
-<p align="center">
-  <a href="https://linkedin.com/in/sampathi-yaswanth">Let's connect on LinkedIn</a> ·
-  <a href="mailto:yaswanthsampathi@gmail.com">Email me</a>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=yashu440&icon=0&color=0" /></a>
-</p>
+### 🤝 Let's Connect
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<a href="https://linkedin.com/in/sampathi-yaswanth"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:yaswanthsampathi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<img src="https://visitcount.itsvg.in/api?id=yashu440&icon=0&color=0" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+<sub>Proudly crafted with ❤️ — built and refined with <a href="https://gprm.itsvg.in">GPRM</a></sub>
+
+</div>
