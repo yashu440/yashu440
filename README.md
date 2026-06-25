@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yaswanth Sampathi</h1>
+<h1 align="center">Hi 👋, I'm Sampathi yaswanth</h1>
 <h3 align="center">Computer Science (CSE) student building at the intersection of Full-Stack Development and AI/ML</h3>
 
 <p align="center">
