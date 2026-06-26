@@ -20,7 +20,6 @@
 <a href="#%EF%B8%8F-skill-architecture">Skill Architecture</a> •
 <a href="#%EF%B8%8F-featured-projects">Projects</a> •
 <a href="#-tech-stack">Tech Stack</a> •
-<a href="#-competitive-programming">Competitive Programming</a> •
 <a href="#-github-analytics">Analytics</a> •
 <a href="#-lets-connect">Connect</a>
 
@@ -219,35 +218,65 @@ A desktop productivity app with full **CRUD** functionality, persistent local st
 
 ---
 
-## 🏆 Competitive Programming
-
-<div align="center">
-<img src="https://leetcard.jacoblin.cool/yashu440?theme=dark&font=Fira%20Code&ext=heatmap" />
-</div>
-
-<div align="center">
-<sub>📌 Replace <code>yashu440</code> with your real LeetCode handle so the card pulls your live stats.</sub>
-</div>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yashu440&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=7C3AED&icon_color=22D3EE&text_color=C9D1D9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashu440&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000&title_color=7C3AED&text_color=C9D1D9" />
+
+![Profile Views](https://img.shields.io/badge/dynamic/json?color=7C3AED&label=Profile%20Views&query=%24.count&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fyashu440%2Freadme&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/yashu440?style=for-the-badge&color=22D3EE&label=Followers)
+![Public Repos](https://img.shields.io/badge/dynamic/json?color=7C3AED&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fyashu440&style=for-the-badge)
+
 </div>
 
-<div align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=yashu440&hide_border=true&background=00000000&ring=7C3AED&fire=22D3EE&currStreakLabel=7C3AED" />
-</div>
+<table align="center">
+<tr>
+<td valign="top" width="50%">
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=yashu440&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=7C3AED&icon_color=22D3EE&text_color=C9D1D9" />
+
+</td>
+<td valign="top" width="50%">
+
+<img width="100%" src="https://nirzak-streak-stats.vercel.app/?user=yashu440&hide_border=true&background=00000000&ring=7C3AED&fire=22D3EE&currStreakLabel=7C3AED" />
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashu440&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000&title_color=7C3AED&text_color=C9D1D9" />
+
+</td>
+<td valign="top" width="50%">
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=yashu440&hide_border=true&bg_color=00000000&title_color=7C3AED&text_color=C9D1D9&layout=compact" />
+
+</td>
+</tr>
+</table>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashu440&bg_color=00000000&color=22D3EE&line=7C3AED&point=22D3EE&hide_border=true" width="95%" />
+<sub>📌 The WakaTime card above needs a connected <a href="https://wakatime.com">WakaTime</a> account linked to your GitHub username to populate.</sub>
 </div>
 
+### 📈 Contribution Activity
+
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=yashu440&theme=radical&no-frame=true&row=1&column=6" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashu440&bg_color=00000000&color=22D3EE&line=7C3AED&point=22D3EE&hide_border=true&area=true" width="95%" />
+</div>
+
+### 🗓️ Isometric Contribution Calendar
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=yashu440&show=isometric-commit-calendar&hide_border=true&bg_color=00000000&title_color=7C3AED&text_color=C9D1D9" width="95%" />
+<br/>
+<sub>📌 Isometric calendar via the lowlighter/metrics-style stats card — falls back gracefully if unsupported by your renderer.</sub>
+</div>
+
+### 🏆 Trophy Case
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=yashu440&theme=radical&no-frame=true&row=1&column=6&margin-w=8" />
 </div>
 
 ### ⏱️ Weekly Coding Activity (WakaTime)
@@ -276,6 +305,8 @@ Other       █░░░░░░░░░░░░░░░░░░░░░�
 </div>
 
 <!-- Contribution snake — requires a GitHub Action to generate this asset on your repo. See: https://github.com/Platane/snk -->
+### 🐍 Contribution Snake
+
 <div align="center">
 <img src="https://raw.githubusercontent.com/yashu440/yashu440/output/github-contribution-grid-snake-dark.svg" width="95%" />
 <br/>
