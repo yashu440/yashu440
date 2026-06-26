@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:22D3EE&height=200&section=header&text=Sampathi%20Yaswanth&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:22D3EE&height=220&section=header&text=Sampathi%20Yaswanth&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20Engineer%20%7C%20Algorithmic%20Problem%20Solver&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Building+at+the+intersection+of+code+%26+intelligence;Full-Stack+Developer+%7C+AI%2FML+Enthusiast;CSE+Student+%40+Kalasalingam+Academy;Always+shipping%2C+always+learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Designing+intelligent+systems%2C+one+algorithm+at+a+time;AI%2FML+Engineer+%7C+Algorithmic+Problem+Solver;CSE+Student+%40+Kalasalingam+Academy;Minimax%2C+Alpha-Beta%2C+and+Generative+AI" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -11,6 +11,7 @@
 <a href="https://linkedin.com/in/sampathi-yaswanth"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:yaswanthsampathi@gmail.com"><img src="https://img.shields.io/badge/Email-22D3EE?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/yashu440"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://leetcode.com/yashu440"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=yashu440&style=for-the-badge&color=7c3aed" alt="profile views"/>
 
 </div>
@@ -19,19 +20,19 @@
 
 ## 👋 About Me
 
-I'm a Computer Science student at **Kalasalingam Academy of Research and Education**, focused on full-stack development and applied AI/ML. I like building things that combine solid backend engineering with intelligent features — from search algorithms to generative AI products.
+I'm a Computer Science student at **Kalasalingam Academy of Research and Education**, focused on **applied AI/ML and algorithmic systems**. I enjoy the problems where intelligence meets engineering — search algorithms with real game-tree pruning, generative AI features wired into production-style web apps, and the kind of competitive programming that forces clean, correct code under pressure.
 
 ```python
 class Yaswanth:
     def __init__(self):
         self.role        = "CSE Student @ Kalasalingam Academy of Research and Education"
-        self.focus       = ["Full-Stack Development", "Applied AI/ML", "Algorithms"]
-        self.building    = "AI-integrated web applications"
-        self.learning    = ["Advanced ML systems", "Modern full-stack frameworks"]
-        self.collab_open = ["AI/ML research", "Full-stack projects", "Open source"]
+        self.focus       = ["AI/ML Engineering", "Algorithms & Search", "Applied GenAI"]
+        self.building    = "AI-integrated, algorithmically-grounded web applications"
+        self.learning    = ["Advanced ML systems", "Competitive programming (Python)"]
+        self.collab_open = ["AI/ML research", "Algorithmic projects", "Open source"]
 
     def reach_me_about(self):
-        return ["Python", "Java", "Flask/Django", "Full-Stack Dev", "ML"]
+        return ["Python", "Machine Learning", "Game AI / Search", "Flask", "Java"]
 
 me = Yaswanth()
 ```
@@ -42,18 +43,18 @@ me = Yaswanth()
 
 ### 🎯 Currently
 - 🔭 Building AI-integrated web applications
-- 🌱 Leveling up in ML systems & full-stack frameworks
-- 🤝 Open to AI/ML research & full-stack collaborations
-- 💬 Ask me about Java, Python, Flask, or web dev
+- 🌱 Sharpening ML fundamentals & competitive programming
+- 🤝 Open to AI/ML research & algorithmic collaborations
+- 💬 Ask me about Python, search algorithms, or generative AI
 
 </td>
 <td width="50%" valign="top">
 
 ### 📈 Goals
 - 🎓 Go deeper into applied Machine Learning
-- 🛠️ Ship production-grade full-stack + AI projects
-- 📚 Contribute to open-source AI/ML tooling
-- 🚀 Land impactful research / dev opportunities
+- 🧠 Push further into algorithmic problem solving (CP)
+- 🛠️ Ship production-grade AI-powered projects
+- 🚀 Land impactful research / AI engineering roles
 
 </td>
 </tr>
@@ -81,20 +82,6 @@ A chess move-evaluation engine built around **minimax search with alpha-beta pru
 </td>
 <td width="33%" valign="top">
 
-<h3 align="center">✅ Task Manager</h3>
-
-A desktop productivity app with full **CRUD** functionality, persistent local storage, and a clean Tkinter interface.
-
-<div align="center">
-
-`Python` `SQLite` `Tkinter`
-
-[**View Repo →**](https://github.com/yashu440/task-manager)
-
-</div>
-</td>
-<td width="33%" valign="top">
-
 <h3 align="center">🤖 GenAI Learning Platform</h3>
 
 A Flask web platform that uses **generative AI** to deliver personalized, adaptive learning experiences for students.
@@ -104,6 +91,20 @@ A Flask web platform that uses **generative AI** to deliver personalized, adapti
 `Flask` `Python` `GenAI`
 
 [**View Repo →**](https://github.com/yashu440/genai-learning-platform)
+
+</div>
+</td>
+<td width="33%" valign="top">
+
+<h3 align="center">✅ Task Manager</h3>
+
+A desktop productivity app with full **CRUD** functionality, persistent local storage, and a clean Tkinter interface.
+
+<div align="center">
+
+`Python` `SQLite` `Tkinter`
+
+[**View Repo →**](https://github.com/yashu440/task-manager)
 
 </div>
 </td>
@@ -124,15 +125,16 @@ A Flask web platform that uses **generative AI** to deliver personalized, adapti
 <br/>
 <img src="https://skillicons.dev/icons?i=python,java,html,css,js&theme=dark" />
 
-**Frameworks & Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=django,flask,nodejs,bootstrap,flutter&theme=dark" />
-
-**AI / ML / Data**
+**AI / ML / Data** — *primary focus*
 <br/>
 <img src="https://skillicons.dev/icons?i=python,pytorch,anaconda&theme=dark" />&nbsp;
 <img src="https://img.shields.io/badge/NumPy-7C3AED?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-22D3EE?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Generative%20AI-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
+
+**Frameworks & Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=django,flask,nodejs,bootstrap,flutter&theme=dark" />
 
 **Cloud, Hosting & DevOps**
 <br/>
@@ -154,10 +156,10 @@ A Flask web platform that uses **generative AI** to deliver personalized, adapti
 | Skill | Proficiency |
 |---|---|
 | Python | ![](https://progress-bar.dev/85/?color=7C3AED&width=200) |
-| Java | ![](https://progress-bar.dev/70/?color=7C3AED&width=200) |
-| Flask / Django | ![](https://progress-bar.dev/75/?color=22D3EE&width=200) |
 | Machine Learning | ![](https://progress-bar.dev/65/?color=22D3EE&width=200) |
-| HTML / CSS | ![](https://progress-bar.dev/80/?color=7C3AED&width=200) |
+| Algorithms / Search (minimax, pruning) | ![](https://progress-bar.dev/75/?color=7C3AED&width=200) |
+| Flask / Django | ![](https://progress-bar.dev/75/?color=22D3EE&width=200) |
+| Java | ![](https://progress-bar.dev/70/?color=7C3AED&width=200) |
 | SQL | ![](https://progress-bar.dev/70/?color=22D3EE&width=200) |
 
 <sub>📌 Adjust the numbers in each URL to reflect your real comfort level.</sub>
@@ -195,6 +197,13 @@ A Flask web platform that uses **generative AI** to deliver personalized, adapti
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=yashu440&theme=radical&no-frame=true&row=1&column=6" />
+</div>
+
+<!-- Contribution snake — requires a GitHub Action to generate this asset on your repo. See: https://github.com/Platane/snk -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/yashu440/yashu440/output/github-contribution-grid-snake-dark.svg" width="95%" />
+<br/>
+<sub>📌 This snake animation needs a small GitHub Action set up on your profile repo — ask me if you want the workflow file.</sub>
 </div>
 
 ---
