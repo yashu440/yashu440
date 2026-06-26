@@ -8,21 +8,26 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/sampathi-yaswanth"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/sampathi-yaswanth-a620ba37a"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:yaswanthsampathi@gmail.com"><img src="https://img.shields.io/badge/Email-22D3EE?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/yashu440"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://leetcode.com/yashu440"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=yashu440&style=for-the-badge&color=7c3aed" alt="profile views"/>
 
 <br/><br/>
 
-<a href="#-about-me">About</a> •
-<a href="#%EF%B8%8F-skill-architecture">Skill Architecture</a> •
-<a href="#%EF%B8%8F-featured-projects">Projects</a> •
-<a href="#-tech-stack">Tech Stack</a> •
-<a href="#-github-analytics">Analytics</a> •
-<a href="#-lets-connect">Connect</a>
+<a href="#-about-me"><img src="https://img.shields.io/badge/About-2b2640?style=flat-square&labelColor=2b2640&color=7C3AED" /></a>
+<a href="#%EF%B8%8F-skill-architecture"><img src="https://img.shields.io/badge/Skill%20Architecture-2b2640?style=flat-square&labelColor=2b2640&color=7C3AED" /></a>
+<a href="#%EF%B8%8F-featured-projects"><img src="https://img.shields.io/badge/Projects-2b2640?style=flat-square&labelColor=2b2640&color=7C3AED" /></a>
+<a href="#-tech-stack"><img src="https://img.shields.io/badge/Tech%20Stack-2b2640?style=flat-square&labelColor=2b2640&color=7C3AED" /></a>
+<a href="#-github-analytics"><img src="https://img.shields.io/badge/Analytics-2b2640?style=flat-square&labelColor=2b2640&color=7C3AED" /></a>
+<a href="#-lets-connect"><img src="https://img.shields.io/badge/Connect-2b2640?style=flat-square&labelColor=2b2640&color=7C3AED" /></a>
 
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:22D3EE&height=3&width=100%25" width="100%"/>
 </div>
 
 <br/>
@@ -69,7 +74,9 @@ me = Yaswanth()
 </tr>
 </table>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:22D3EE&height=3&width=100%25" width="100%"/>
+</div>
 
 ## 🗺️ Skill Architecture
 
@@ -101,7 +108,9 @@ graph LR
 <sub>📌 GitHub renders Mermaid diagrams natively in READMEs — no extra setup needed.</sub>
 </div>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:22D3EE&height=3&width=100%25" width="100%"/>
+</div>
 
 ## 🛠️ Featured Projects
 
@@ -165,7 +174,9 @@ A desktop productivity app with full **CRUD** functionality, persistent local st
 <sub>📌 Swap in your real repo URLs above once they're public.</sub>
 </div>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:22D3EE&height=3&width=100%25" width="100%"/>
+</div>
 
 ## 💻 Tech Stack
 
@@ -197,7 +208,9 @@ A desktop productivity app with full **CRUD** functionality, persistent local st
 
 </div>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:22D3EE&height=3&width=100%25" width="100%"/>
+</div>
 
 ## ⚡ Skill Proficiency
 
@@ -216,7 +229,9 @@ A desktop productivity app with full **CRUD** functionality, persistent local st
 
 </div>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:22D3EE&height=3&width=100%25" width="100%"/>
+</div>
 
 ## 📊 GitHub Analytics
 
@@ -313,13 +328,15 @@ Other       █░░░░░░░░░░░░░░░░░░░░░�
 <sub>📌 This snake animation needs a small GitHub Action set up on your profile repo — ask me if you want the workflow file.</sub>
 </div>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:22D3EE&height=3&width=100%25" width="100%"/>
+</div>
 
 ## 🤝 Let's Connect
 
 <div align="center">
 
-<a href="https://linkedin.com/in/sampathi-yaswanth"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/sampathi-yaswanth-a620ba37a"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:yaswanthsampathi@gmail.com"><img src="https://img.shields.io/badge/Email-22D3EE?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/yashu440"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
