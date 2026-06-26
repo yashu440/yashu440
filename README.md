@@ -309,24 +309,90 @@ Other       █░░░░░░░░░░░░░░░░░░░░░�
 <sub>📌 This block auto-updates if you add the <a href="https://github.com/athul/waka-readme">waka-readme</a> GitHub Action with your WakaTime API key.</sub>
 </div>
 
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yashu440/yashu440/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yashu440/yashu440/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/yashu440/yashu440/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Contribution Snake animation" />
+</picture>
+
+</div>
+
+<details>
+<summary>📌 <b>Setup (one-time, ~2 min)</b> — click to expand</summary>
+
+<br/>
+
+1. Create a repo named exactly `yashu440` (a "profile repo" — same name as your username).
+2. In that repo, go to **Settings → Actions → General** and enable Read/write workflow permissions.
+3. Add this file as `.github/workflows/snake.yml`:
+
+```yaml
+name: generate-snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  push:
+    branches: [ main ]
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: yashu440
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+4. Push it — the action runs and the snake SVGs land on the `output` branch, exactly where the image links above already point.
+
+</details>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:22D3EE&height=3&width=100%25" width="100%"/>
+</div>
+
 ### 🌍 Visitor Map
+
+<div align="center">
+
+![Live Visitors](https://api.visitorbadge.io/api/visitors?path=yashu440%2Fyashu440&label=Live%20Visitors&countColor=%237C3AED&style=for-the-badge)
+
+</div>
 
 <div align="center">
 <img src="https://maps.clustrmaps.com/map_v2?cl=080808&w=600&t=tt&d=8h0E2Z9G6w3X1z9Y2v3Q4w5e6R7t8Y9u0I1o2P3a4S5d6F7g8H&co=ffffff&ct=7C3AED" width="60%"/>
 </div>
 
-<div align="center">
-<sub>📌 ClustrMaps requires a free signup at clustrmaps.com to generate your real embed code — replace the placeholder ID above.</sub>
-</div>
+<details>
+<summary>📌 <b>Setup (one-time, ~1 min)</b> — click to expand</summary>
 
-<!-- Contribution snake — requires a GitHub Action to generate this asset on your repo. See: https://github.com/Platane/snk -->
-### 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/yashu440/yashu440/output/github-contribution-grid-snake-dark.svg" width="95%" />
 <br/>
-<sub>📌 This snake animation needs a small GitHub Action set up on your profile repo — ask me if you want the workflow file.</sub>
-</div>
+
+1. Go to <a href="https://clustrmaps.com">clustrmaps.com</a> and sign up free.
+2. Add a new map for your GitHub profile URL — `https://github.com/yashu440`.
+3. Copy the embed snippet ClustrMaps gives you and swap the `d=` and `cl=` query params in the `<img>` src above with your real ones.
+4. The world map then fills in live as people view your profile.
+
+The **Live Visitors** badge above works immediately with zero setup — it's a simple hit counter as a stopgap while the world map populates.
+
+</details>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:22D3EE&height=3&width=100%25" width="100%"/>
