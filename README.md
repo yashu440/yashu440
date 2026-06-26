@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:22D3EE&height=220&section=header&text=Sampathi%20Yaswanth&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20Engineer%20%7C%20Algorithmic%20Problem%20Solver&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:22D3EE&height=220&section=header&text=Sampathi%20Yaswanth&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Always%20Learning%2C%20Always%20Building&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Designing+intelligent+systems%2C+one+algorithm+at+a+time;AI%2FML+Engineer+%7C+Algorithmic+Problem+Solver;CSE+Student+%40+Kalasalingam+Academy;Minimax%2C+Alpha-Beta%2C+and+Generative+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Designing+intelligent+systems%2C+one+algorithm+at+a+time;Always+learning+new+technologies;CSE+Student+%40+Kalasalingam+Academy;Minimax%2C+Alpha-Beta%2C+and+Generative+AI" alt="Typing SVG" />
 </a>
 
 <br/>
