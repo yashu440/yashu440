@@ -22,14 +22,12 @@
 
 <br/><br/>
 
-<sub>
-<a href="#-about-me"><b>ABOUT</b></a> &nbsp;✦&nbsp;
-<a href="#%EF%B8%8F-skill-architecture"><b>SKILL MAP</b></a> &nbsp;✦&nbsp;
-<a href="#%EF%B8%8F-featured-projects"><b>PROJECTS</b></a> &nbsp;✦&nbsp;
-<a href="#-tech-stack"><b>TECH STACK</b></a> &nbsp;✦&nbsp;
-<a href="#-github-analytics"><b>ANALYTICS</b></a> &nbsp;✦&nbsp;
-<a href="#-lets-connect"><b>CONNECT</b></a>
-</sub>
+<a href="#-about-me"><img src="https://img.shields.io/badge/ABOUT-0D0D0D?style=flat-square&labelColor=0D0D0D&color=D4AF37"/></a>
+<a href="#%EF%B8%8F-skill-architecture"><img src="https://img.shields.io/badge/SKILL_MAP-D4AF37?style=flat-square&labelColor=0D0D0D&color=D4AF37"/></a>
+<a href="#%EF%B8%8F-featured-projects"><img src="https://img.shields.io/badge/PROJECTS-0D0D0D?style=flat-square&labelColor=0D0D0D&color=D4AF37"/></a>
+<a href="#-tech-stack"><img src="https://img.shields.io/badge/TECH_STACK-D4AF37?style=flat-square&labelColor=0D0D0D&color=D4AF37"/></a>
+<a href="#-github-analytics"><img src="https://img.shields.io/badge/ANALYTICS-0D0D0D?style=flat-square&labelColor=0D0D0D&color=D4AF37"/></a>
+<a href="#-lets-connect"><img src="https://img.shields.io/badge/CONNECT-D4AF37?style=flat-square&labelColor=0D0D0D&color=D4AF37"/></a>
 
 </div>
 
@@ -230,6 +228,16 @@ A desktop productivity app with full **CRUD** functionality, persistent local st
 <sub>📌 Swap in your real repo URLs above once they're public.</sub>
 </div>
 
+<div align="center">
+
+<br/>
+
+[![Star History Chart](https://api.star-history.com/svg?repos=yashu440/chess-engine&type=Date&theme=dark)](https://star-history.com/#yashu440/chess-engine&Date)
+
+<sub>📌 Star History tracks one repo at a time — pick whichever project you want to showcase growth for, or remove this if the repos are too new to show a meaningful curve yet.</sub>
+
+</div>
+
 <div align="right"><sub><a href="#">↑ back to top</a></sub></div>
 
 <div align="center">
@@ -292,6 +300,13 @@ A desktop productivity app with full **CRUD** functionality, persistent local st
 | SQL | ![](https://progress-bar.dev/70/?color=FFD700&width=220&suffix=%25) |
 
 <sub>📌 Adjust the numbers in each URL to reflect your real comfort level.</sub>
+
+<br/><br/>
+
+<img width="55%" src="https://quickchart.io/chart?c={type:'radar',data:{labels:['Python','ML','Algorithms','Flask%2FDjango','Java','SQL'],datasets:[{label:'Proficiency',data:[85,65,75,75,70,70],backgroundColor:'rgba(212,175,55,0.35)',borderColor:'%23D4AF37',pointBackgroundColor:'%23FFD700'}]},options:{plugins:{legend:{display:false}},scales:{r:{angleLines:{color:'%233a3a3a'},grid:{color:'%232a2a2a'},pointLabels:{color:'%23D4AF37',font:{size:12}},ticks:{display:false,max:100,min:0}}}},backgroundColor:'transparent'}" alt="Skill radar chart"/>
+
+<br/>
+<sub>📌 Radar view of the same numbers above — generated live via <a href="https://quickchart.io">QuickChart</a>. Edit the <code>data:[...]</code> values in the URL to match your own.</sub>
 
 </div>
 
@@ -360,6 +375,29 @@ The card below only renders once `yashu440` has a **public** WakaTime profile (f
 <br/>
 <sub>📌 Isometric calendar via the lowlighter/metrics-style stats card — falls back gracefully if unsupported by your renderer.</sub>
 </div>
+
+### 🧩 Competitive Programming
+
+<details>
+<summary>📌 <b>Optional: LeetCode / Codeforces cards</b> — click to expand</summary>
+
+<br/>
+
+Drop in your real handles and uncomment/use these once ready — both render live, gold/black themed:
+
+**LeetCode** (replace `your-leetcode-handle`):
+```md
+<img src="https://leetcard.jacoblin.cool/your-leetcode-handle?theme=dark&font=Karma&ext=heatmap" />
+```
+
+**Codeforces** (replace `your-codeforces-handle`):
+```md
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=your-codeforces-handle" />
+```
+
+<sub>Both services are third-party and occasionally rate-limited like the GitHub stats cards above — if a card doesn't render on first load, refresh the page.</sub>
+
+</details>
 
 ### 🏆 Trophy Case
 
