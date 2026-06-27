@@ -305,9 +305,10 @@ A desktop productivity app with full **CRUD** functionality, persistent local st
 
 <div align="center">
 
-![Profile Views](https://img.shields.io/badge/dynamic/json?color=D4AF37&label=Profile%20Views&query=%24.count&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fyashu440%2Freadme&style=for-the-badge&labelColor=0D0D0D)
 ![Followers](https://img.shields.io/github/followers/yashu440?style=for-the-badge&color=D4AF37&label=Followers&labelColor=0D0D0D)
-![Public Repos](https://img.shields.io/badge/dynamic/json?color=D4AF37&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fyashu440&style=for-the-badge&labelColor=0D0D0D)
+[![Public Repos](https://img.shields.io/badge/Public_Repos-View_All-D4AF37?style=for-the-badge&logo=github&logoColor=000000&labelColor=0D0D0D)](https://github.com/yashu440?tab=repositories)
+
+<sub>📌 The live "Profile Views" hit-counter (countapi.xyz) has been retired by its provider — the <code>komarev.com/ghpvc</code> badge at the very top of this README is the working replacement and already covers that.</sub>
 
 </div>
 
@@ -315,7 +316,7 @@ A desktop productivity app with full **CRUD** functionality, persistent local st
 <tr>
 <td valign="top" width="50%">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=yashu440&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=D4AF37&icon_color=FFD700&text_color=C9D1D9&border_color=D4AF37&rank_icon=percentile" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=yashu440&hide_border=true&bg_color=00000000&title_color=D4AF37&icon_color=FFD700&text_color=C9D1D9&border_color=D4AF37&rank_icon=percentile" />
 
 </td>
 <td valign="top" width="50%">
@@ -325,22 +326,26 @@ A desktop productivity app with full **CRUD** functionality, persistent local st
 </td>
 </tr>
 <tr>
-<td valign="top" width="50%">
+<td colspan="2" valign="top">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashu440&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000&title_color=D4AF37&text_color=C9D1D9" />
-
-</td>
-<td valign="top" width="50%">
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=yashu440&hide_border=true&bg_color=00000000&title_color=D4AF37&text_color=C9D1D9&layout=compact" />
+<div align="center">
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashu440&hide_border=true&layout=compact&bg_color=00000000&title_color=D4AF37&text_color=C9D1D9" />
+</div>
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-<sub>📌 The WakaTime card above needs a connected <a href="https://wakatime.com">WakaTime</a> account linked to your GitHub username to populate.</sub>
-</div>
+<details>
+<summary>📌 <b>Optional: WakaTime card</b> — click to expand</summary>
+
+<br/>
+
+The card below only renders once `yashu440` has a **public** WakaTime profile (free account at <a href="https://wakatime.com">wakatime.com</a>, then make it public in WakaTime settings). Until then it shows a "could not resolve user" error, so it's kept out of the main grid above.
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=yashu440&hide_border=true&bg_color=00000000&title_color=D4AF37&text_color=C9D1D9&layout=compact" />
+
+</details>
 
 ### 📈 Contribution Activity
 
