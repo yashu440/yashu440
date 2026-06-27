@@ -8,6 +8,13 @@
 
 <br/>
 
+<img src="https://img.shields.io/badge/🎓_CSE_Student-0D0D0D?style=flat-square&labelColor=0D0D0D&color=D4AF37" />
+<img src="https://img.shields.io/badge/🧠_AI%2FML_Focus-D4AF37?style=flat-square&labelColor=0D0D0D&color=D4AF37" />
+<img src="https://img.shields.io/badge/♟️_Algorithms_%26_Search-0D0D0D?style=flat-square&labelColor=0D0D0D&color=D4AF37" />
+<img src="https://img.shields.io/badge/🤝_Open_to_Collab-D4AF37?style=flat-square&labelColor=0D0D0D&color=D4AF37" />
+
+<br/><br/>
+
 <a href="https://linkedin.com/in/sampathi-yaswanth-a620ba37a"><img src="https://img.shields.io/badge/LinkedIn-D4AF37?style=for-the-badge&logo=linkedin&logoColor=000000" /></a>
 <a href="mailto:yaswanthsampathi@gmail.com"><img src="https://img.shields.io/badge/Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=D4AF37" /></a>
 <a href="https://github.com/yashu440"><img src="https://img.shields.io/badge/GitHub-D4AF37?style=for-the-badge&logo=github&logoColor=000000" /></a>
@@ -15,12 +22,14 @@
 
 <br/><br/>
 
-<a href="#-about-me"><img src="https://img.shields.io/badge/About-0D0D0D?style=flat-square&labelColor=0D0D0D&color=D4AF37" /></a>
-<a href="#%EF%B8%8F-skill-architecture"><img src="https://img.shields.io/badge/Skill%20Architecture-0D0D0D?style=flat-square&labelColor=0D0D0D&color=D4AF37" /></a>
-<a href="#%EF%B8%8F-featured-projects"><img src="https://img.shields.io/badge/Projects-0D0D0D?style=flat-square&labelColor=0D0D0D&color=D4AF37" /></a>
-<a href="#-tech-stack"><img src="https://img.shields.io/badge/Tech%20Stack-0D0D0D?style=flat-square&labelColor=0D0D0D&color=D4AF37" /></a>
-<a href="#-github-analytics"><img src="https://img.shields.io/badge/Analytics-0D0D0D?style=flat-square&labelColor=0D0D0D&color=D4AF37" /></a>
-<a href="#-lets-connect"><img src="https://img.shields.io/badge/Connect-0D0D0D?style=flat-square&labelColor=0D0D0D&color=D4AF37" /></a>
+<sub>
+<a href="#-about-me"><b>ABOUT</b></a> &nbsp;✦&nbsp;
+<a href="#%EF%B8%8F-skill-architecture"><b>SKILL MAP</b></a> &nbsp;✦&nbsp;
+<a href="#%EF%B8%8F-featured-projects"><b>PROJECTS</b></a> &nbsp;✦&nbsp;
+<a href="#-tech-stack"><b>TECH STACK</b></a> &nbsp;✦&nbsp;
+<a href="#-github-analytics"><b>ANALYTICS</b></a> &nbsp;✦&nbsp;
+<a href="#-lets-connect"><b>CONNECT</b></a>
+</sub>
 
 </div>
 
@@ -51,11 +60,16 @@ class Yaswanth:
 me = Yaswanth()
 ```
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
+<div align="center">
+
 ### 🎯 Currently
+
+</div>
+
 - 🔭 Building AI-integrated web applications
 - 🌱 Sharpening ML fundamentals & competitive programming
 - 🤝 Open to AI/ML research & algorithmic collaborations
@@ -64,7 +78,12 @@ me = Yaswanth()
 </td>
 <td width="50%" valign="top">
 
+<div align="center">
+
 ### 📈 Goals
+
+</div>
+
 - 🎓 Go deeper into applied Machine Learning
 - 🧠 Push further into algorithmic problem solving (CP)
 - 🛠️ Ship production-grade AI-powered projects
@@ -73,6 +92,8 @@ me = Yaswanth()
 </td>
 </tr>
 </table>
+
+<div align="right"><sub><a href="#">↑ back to top</a></sub></div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:D4AF37,100:0D0D0D&height=3&width=100%25" width="100%"/>
@@ -98,15 +119,26 @@ graph LR
     D --> D2[SQLite + Tkinter]
     D --> D3[Task Manager]
 
-    style A fill:#D4AF37,stroke:#FFD700,color:#000
-    style B fill:#0D0D0D,stroke:#D4AF37,color:#D4AF37
-    style C fill:#0D0D0D,stroke:#D4AF37,color:#D4AF37
-    style D fill:#0D0D0D,stroke:#D4AF37,color:#D4AF37
+    style A fill:#D4AF37,stroke:#FFD700,color:#000,stroke-width:2px
+    style B fill:#0D0D0D,stroke:#D4AF37,color:#D4AF37,stroke-width:1px
+    style C fill:#0D0D0D,stroke:#D4AF37,color:#D4AF37,stroke-width:1px
+    style D fill:#0D0D0D,stroke:#D4AF37,color:#D4AF37,stroke-width:1px
+    style B1 fill:#1a1a1a,stroke:#FFD700,color:#FFD700
+    style B2 fill:#1a1a1a,stroke:#FFD700,color:#FFD700
+    style B3 fill:#1a1a1a,stroke:#FFD700,color:#FFD700
+    style C1 fill:#1a1a1a,stroke:#FFD700,color:#FFD700
+    style C2 fill:#1a1a1a,stroke:#FFD700,color:#FFD700
+    style C3 fill:#1a1a1a,stroke:#FFD700,color:#FFD700
+    style D1 fill:#1a1a1a,stroke:#FFD700,color:#FFD700
+    style D2 fill:#1a1a1a,stroke:#FFD700,color:#FFD700
+    style D3 fill:#1a1a1a,stroke:#FFD700,color:#FFD700
 ```
 
 <div align="center">
 <sub>📌 GitHub renders Mermaid diagrams natively in READMEs — no extra setup needed.</sub>
 </div>
+
+<div align="right"><sub><a href="#">↑ back to top</a></sub></div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:D4AF37,100:0D0D0D&height=3&width=100%25" width="100%"/>
@@ -114,20 +146,28 @@ graph LR
 
 ## 🛠️ Featured Projects
 
-<table>
+<table width="100%">
 <tr>
 <td width="33%" valign="top">
 
-<h3 align="center">♟️ Chess Engine</h3>
+<div align="center">
+
+<h3>♟️ Chess Engine</h3>
 
 A chess move-evaluation engine built around **minimax search with alpha-beta pruning** for efficient, intelligent gameplay decisions.
 
-<div align="center">
+<br/>
 
-`Python` `Algorithms` `Game AI`
+<img src="https://img.shields.io/badge/Python-0D0D0D?style=flat-square&logo=python&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/Algorithms-0D0D0D?style=flat-square&logoColor=D4AF37&color=0D0D0D&labelColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/Game_AI-D4AF37?style=flat-square&labelColor=0D0D0D"/>
+
+<br/><br/>
 
 ![Stars](https://img.shields.io/github/stars/yashu440/chess-engine?style=flat-square&color=D4AF37&labelColor=0D0D0D)
 ![Last Commit](https://img.shields.io/github/last-commit/yashu440/chess-engine?style=flat-square&color=FFD700&labelColor=0D0D0D)
+
+<br/>
 
 [**View Repo →**](https://github.com/yashu440/chess-engine)
 
@@ -135,16 +175,24 @@ A chess move-evaluation engine built around **minimax search with alpha-beta pru
 </td>
 <td width="33%" valign="top">
 
-<h3 align="center">🤖 GenAI Learning Platform</h3>
+<div align="center">
+
+<h3>🤖 GenAI Learning Platform</h3>
 
 A Flask web platform that uses **generative AI** to deliver personalized, adaptive learning experiences for students.
 
-<div align="center">
+<br/>
 
-`Flask` `Python` `GenAI`
+<img src="https://img.shields.io/badge/Flask-0D0D0D?style=flat-square&logo=flask&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/Python-D4AF37?style=flat-square&labelColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/GenAI-0D0D0D?style=flat-square&color=D4AF37&labelColor=0D0D0D"/>
+
+<br/><br/>
 
 ![Stars](https://img.shields.io/github/stars/yashu440/genai-learning-platform?style=flat-square&color=D4AF37&labelColor=0D0D0D)
 ![Last Commit](https://img.shields.io/github/last-commit/yashu440/genai-learning-platform?style=flat-square&color=FFD700&labelColor=0D0D0D)
+
+<br/>
 
 [**View Repo →**](https://github.com/yashu440/genai-learning-platform)
 
@@ -152,16 +200,24 @@ A Flask web platform that uses **generative AI** to deliver personalized, adapti
 </td>
 <td width="33%" valign="top">
 
-<h3 align="center">✅ Task Manager</h3>
+<div align="center">
+
+<h3>✅ Task Manager</h3>
 
 A desktop productivity app with full **CRUD** functionality, persistent local storage, and a clean Tkinter interface.
 
-<div align="center">
+<br/>
 
-`Python` `SQLite` `Tkinter`
+<img src="https://img.shields.io/badge/Python-0D0D0D?style=flat-square&logo=python&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/SQLite-D4AF37?style=flat-square&logo=sqlite&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Tkinter-0D0D0D?style=flat-square&color=D4AF37&labelColor=0D0D0D"/>
+
+<br/><br/>
 
 ![Stars](https://img.shields.io/github/stars/yashu440/task-manager?style=flat-square&color=D4AF37&labelColor=0D0D0D)
 ![Last Commit](https://img.shields.io/github/last-commit/yashu440/task-manager?style=flat-square&color=FFD700&labelColor=0D0D0D)
+
+<br/>
 
 [**View Repo →**](https://github.com/yashu440/task-manager)
 
@@ -173,6 +229,8 @@ A desktop productivity app with full **CRUD** functionality, persistent local st
 <div align="center">
 <sub>📌 Swap in your real repo URLs above once they're public.</sub>
 </div>
+
+<div align="right"><sub><a href="#">↑ back to top</a></sub></div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:D4AF37,100:0D0D0D&height=3&width=100%25" width="100%"/>
@@ -186,6 +244,8 @@ A desktop productivity app with full **CRUD** functionality, persistent local st
 <br/>
 <img src="https://skillicons.dev/icons?i=python,java,html,css,js&theme=dark" />
 
+<br/>
+
 **AI / ML / Data** — *primary focus*
 <br/>
 <img src="https://skillicons.dev/icons?i=python,pytorch,anaconda&theme=dark" />&nbsp;
@@ -193,13 +253,19 @@ A desktop productivity app with full **CRUD** functionality, persistent local st
 <img src="https://img.shields.io/badge/Pandas-0D0D0D?style=for-the-badge&logo=pandas&logoColor=D4AF37" />
 <img src="https://img.shields.io/badge/Generative%20AI-D4AF37?style=for-the-badge&logo=openai&logoColor=000000" />
 
+<br/>
+
 **Frameworks & Backend**
 <br/>
 <img src="https://skillicons.dev/icons?i=django,flask,nodejs,bootstrap,flutter&theme=dark" />
 
+<br/>
+
 **Cloud, Hosting & DevOps**
 <br/>
 <img src="https://skillicons.dev/icons?i=firebase,supabase,vercel,netlify,git,github&theme=dark" />
+
+<br/>
 
 **Design**
 <br/>
@@ -217,17 +283,19 @@ A desktop productivity app with full **CRUD** functionality, persistent local st
 <div align="center">
 
 | Skill | Proficiency |
-|---|---|
-| Python | ![](https://progress-bar.dev/85/?color=D4AF37&width=200) |
-| Machine Learning | ![](https://progress-bar.dev/65/?color=FFD700&width=200) |
-| Algorithms / Search (minimax, pruning) | ![](https://progress-bar.dev/75/?color=D4AF37&width=200) |
-| Flask / Django | ![](https://progress-bar.dev/75/?color=FFD700&width=200) |
-| Java | ![](https://progress-bar.dev/70/?color=D4AF37&width=200) |
-| SQL | ![](https://progress-bar.dev/70/?color=FFD700&width=200) |
+|:---|:---|
+| Python | ![](https://progress-bar.dev/85/?color=D4AF37&width=220&suffix=%25) |
+| Machine Learning | ![](https://progress-bar.dev/65/?color=FFD700&width=220&suffix=%25) |
+| Algorithms / Search (minimax, pruning) | ![](https://progress-bar.dev/75/?color=D4AF37&width=220&suffix=%25) |
+| Flask / Django | ![](https://progress-bar.dev/75/?color=FFD700&width=220&suffix=%25) |
+| Java | ![](https://progress-bar.dev/70/?color=D4AF37&width=220&suffix=%25) |
+| SQL | ![](https://progress-bar.dev/70/?color=FFD700&width=220&suffix=%25) |
 
 <sub>📌 Adjust the numbers in each URL to reflect your real comfort level.</sub>
 
 </div>
+
+<div align="right"><sub><a href="#">↑ back to top</a></sub></div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:D4AF37,100:0D0D0D&height=3&width=100%25" width="100%"/>
@@ -243,16 +311,16 @@ A desktop productivity app with full **CRUD** functionality, persistent local st
 
 </div>
 
-<table align="center">
+<table align="center" width="100%">
 <tr>
 <td valign="top" width="50%">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=yashu440&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=D4AF37&icon_color=FFD700&text_color=C9D1D9&border_color=D4AF37" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=yashu440&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=D4AF37&icon_color=FFD700&text_color=C9D1D9&border_color=D4AF37&rank_icon=percentile" />
 
 </td>
 <td valign="top" width="50%">
 
-<img width="100%" src="https://nirzak-streak-stats.vercel.app/?user=yashu440&hide_border=true&background=00000000&ring=D4AF37&fire=FFD700&currStreakLabel=D4AF37" />
+<img width="100%" src="https://nirzak-streak-stats.vercel.app/?user=yashu440&hide_border=true&background=00000000&ring=D4AF37&fire=FFD700&currStreakLabel=D4AF37&sideLabels=D4AF37&dates=8B8B8B" />
 
 </td>
 </tr>
@@ -380,6 +448,8 @@ The `colors=` list goes from emptiest to busiest contribution day, so it fades f
 
 </details>
 
+<div align="right"><sub><a href="#">↑ back to top</a></sub></div>
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:D4AF37,100:0D0D0D&height=3&width=100%25" width="100%"/>
 </div>
@@ -410,6 +480,8 @@ The **Live Visitors** badge above works immediately with zero setup — it's a s
 
 </details>
 
+<div align="right"><sub><a href="#">↑ back to top</a></sub></div>
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:D4AF37,100:0D0D0D&height=3&width=100%25" width="100%"/>
 </div>
@@ -418,9 +490,17 @@ The **Live Visitors** badge above works immediately with zero setup — it's a s
 
 <div align="center">
 
+> *"The best way to learn is to build, break, and rebuild — better."*
+
+<br/>
+
 <a href="https://linkedin.com/in/sampathi-yaswanth-a620ba37a"><img src="https://img.shields.io/badge/LinkedIn-D4AF37?style=for-the-badge&logo=linkedin&logoColor=000000" /></a>
 <a href="mailto:yaswanthsampathi@gmail.com"><img src="https://img.shields.io/badge/Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=D4AF37" /></a>
 <a href="https://github.com/yashu440"><img src="https://img.shields.io/badge/GitHub-D4AF37?style=for-the-badge&logo=github&logoColor=000000" /></a>
+
+<br/><br/>
+
+<sub>⚡ Thanks for stopping by — feel free to star a repo or drop a message.</sub>
 
 <br/><br/>
 
