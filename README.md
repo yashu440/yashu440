@@ -27,7 +27,8 @@
 <a href="#%EF%B8%8F-featured-projects"><img src="https://img.shields.io/badge/PROJECTS-0D0D0D?style=flat-square&labelColor=0D0D0D&color=D4AF37"/></a>
 <a href="#-tech-stack"><img src="https://img.shields.io/badge/TECH_STACK-D4AF37?style=flat-square&labelColor=0D0D0D&color=D4AF37"/></a>
 <a href="#-github-analytics"><img src="https://img.shields.io/badge/ANALYTICS-0D0D0D?style=flat-square&labelColor=0D0D0D&color=D4AF37"/></a>
-<a href="#-lets-connect"><img src="https://img.shields.io/badge/CONNECT-D4AF37?style=flat-square&labelColor=0D0D0D&color=D4AF37"/></a>
+<a href="#-roadmap"><img src="https://img.shields.io/badge/ROADMAP-D4AF37?style=flat-square&labelColor=0D0D0D&color=D4AF37"/></a>
+<a href="#-lets-connect"><img src="https://img.shields.io/badge/CONNECT-0D0D0D?style=flat-square&labelColor=0D0D0D&color=D4AF37"/></a>
 
 </div>
 
@@ -43,6 +44,17 @@
 
 I'm a Computer Science student at **Kalasalingam Academy of Research and Education**, focused on **applied AI/ML and algorithmic systems**. I enjoy the problems where intelligence meets engineering — search algorithms with real game-tree pruning, generative AI features wired into production-style web apps, and the kind of competitive programming that forces clean, correct code under pressure.
 
+```bash
+yaswanth@dev:~$ whoami
+> CSE student, AI/ML engineer-in-training, algorithm enthusiast
+
+yaswanth@dev:~$ cat current_focus.txt
+> Building AI-integrated web apps + sharpening search/CP fundamentals
+
+yaswanth@dev:~$ echo $STATUS
+> shipping something, probably at 1 AM
+```
+
 ```python
 class Yaswanth:
     def __init__(self):
@@ -54,6 +66,9 @@ class Yaswanth:
 
     def reach_me_about(self):
         return ["Python", "Machine Learning", "Game AI / Search", "Flask", "Java"]
+
+    def __repr__(self):
+        return f"<Yaswanth focus={self.focus[0]} status='building'>"
 
 me = Yaswanth()
 ```
@@ -228,9 +243,34 @@ A desktop productivity app with full **CRUD** functionality, persistent local st
 <sub>📌 Swap in your real repo URLs above once they're public.</sub>
 </div>
 
-<div align="center">
+### 🧠 Chess Engine — Architecture Peek
 
-<br/>
+```mermaid
+flowchart TD
+    A[Board State] --> B{Depth Limit?}
+    B -- No --> C[Generate Legal Moves]
+    C --> D[Order Moves - captures first]
+    D --> E[Minimax Recursion]
+    E --> F{Maximizing?}
+    F -- Yes --> G[Alpha Update]
+    F -- No --> H[Beta Update]
+    G --> I{Alpha >= Beta?}
+    H --> I
+    I -- Yes --> J[Prune Branch ✂️]
+    I -- No --> B
+    B -- Yes --> K[Static Evaluation]
+    K --> L[Return Score]
+
+    style A fill:#D4AF37,stroke:#FFD700,color:#000
+    style J fill:#0D0D0D,stroke:#FFD700,color:#FFD700
+    style L fill:#0D0D0D,stroke:#D4AF37,color:#D4AF37
+```
+
+<div align="center">
+<sub>📌 Sample diagram of the search/prune loop — replace with your actual engine's flow if it differs.</sub>
+</div>
+
+<div align="center">
 
 [![Star History Chart](https://api.star-history.com/svg?repos=yashu440/chess-engine&type=Date&theme=dark)](https://star-history.com/#yashu440/chess-engine&Date)
 
@@ -358,7 +398,7 @@ A desktop productivity app with full **CRUD** functionality, persistent local st
 
 The card below only renders once `yashu440` has a **public** WakaTime profile (free account at <a href="https://wakatime.com">wakatime.com</a>, then make it public in WakaTime settings). Until then it shows a "could not resolve user" error, so it's kept out of the main grid above.
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=yashu440&hide_border=true&bg_color=00000000&title_color=D4AF37&text_color=C9D1D9&layout=compact" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=yashu440&hide_border=true&bg_color=00000000&text_color=C9D1D9&layout=compact" />
 
 </details>
 
@@ -497,6 +537,52 @@ The `colors=` list goes from emptiest to busiest contribution day, so it fades f
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:D4AF37,100:0D0D0D&height=3&width=100%25" width="100%"/>
 </div>
 
+## 📜 Certifications & Achievements
+
+<div align="center">
+
+| Certificate / Achievement | Issuer | Year |
+|:---|:---|:---:|
+| 🏅 Add your certificate title here | Issuing platform | 20XX |
+| 🏅 Add your certificate title here | Issuing platform | 20XX |
+| 🏅 Add your certificate title here | Issuing platform | 20XX |
+
+<sub>📌 Replace these placeholder rows with real certifications (Coursera, NPTEL, hackathon wins, etc.) — link each title to the credential URL if public.</sub>
+
+</div>
+
+<div align="right"><sub><a href="#">↑ back to top</a></sub></div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:D4AF37,100:0D0D0D&height=3&width=100%25" width="100%"/>
+</div>
+
+## 🧭 Roadmap
+
+```mermaid
+timeline
+    title Learning & Building Roadmap
+    2024 : Foundations in Python, Java, DSA
+         : Started competitive programming
+    2025 : Chess Engine (Minimax + Alpha-Beta)
+         : Task Manager (Tkinter + SQLite)
+         : GenAI Learning Platform (Flask)
+    2026 : Deeper ML systems (PyTorch)
+         : Advanced competitive programming
+         : Ship production-grade AI projects
+    Next : AI/ML research or engineering role
+```
+
+<div align="center">
+<sub>📌 GitHub renders <code>timeline</code> Mermaid diagrams too — update the milestones as your journey progresses.</sub>
+</div>
+
+<div align="right"><sub><a href="#">↑ back to top</a></sub></div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:D4AF37,100:0D0D0D&height=3&width=100%25" width="100%"/>
+</div>
+
 ### 🌍 Visitor Map
 
 <div align="center">
@@ -522,6 +608,23 @@ The `colors=` list goes from emptiest to busiest contribution day, so it fades f
 The **Live Visitors** badge above works immediately with zero setup — it's a simple hit counter as a stopgap while the world map populates.
 
 </details>
+
+<div align="right"><sub><a href="#">↑ back to top</a></sub></div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:D4AF37,100:0D0D0D&height=3&width=100%25" width="100%"/>
+</div>
+
+## ☕ Support
+
+<div align="center">
+
+<a href="https://www.buymeacoffee.com/yashu440"><img src="https://img.shields.io/badge/Buy_Me_a_Coffee-D4AF37?style=for-the-badge&logo=buymeacoffee&logoColor=000000" /></a>
+<a href="https://github.com/sponsors/yashu440"><img src="https://img.shields.io/badge/GitHub_Sponsors-0D0D0D?style=for-the-badge&logo=githubsponsors&logoColor=D4AF37" /></a>
+
+<sub>📌 Both links are placeholders — enable GitHub Sponsors in your account settings and/or create a Buy Me a Coffee page, then these badges go live automatically.</sub>
+
+</div>
 
 <div align="right"><sub><a href="#">↑ back to top</a></sub></div>
 
