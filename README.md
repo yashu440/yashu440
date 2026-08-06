@@ -37,11 +37,21 @@
 <a href="#-about-me"><img src="https://img.shields.io/badge/ABOUT-0D0D0D?style=flat-square&labelColor=0D0D0D&color=D4AF37"/></a>
 <a href="#%EF%B8%8F-skill-architecture"><img src="https://img.shields.io/badge/SKILL_MAP-D4AF37?style=flat-square&labelColor=0D0D0D&color=D4AF37"/></a>
 <a href="#%EF%B8%8F-featured-projects"><img src="https://img.shields.io/badge/PROJECTS-0D0D0D?style=flat-square&labelColor=0D0D0D&color=D4AF37"/></a>
+<a href="#-algorithm-playground"><img src="https://img.shields.io/badge/PLAYGROUND-FFD700?style=flat-square&labelColor=0D0D0D&color=FFD700"/></a>
 <a href="#-tech-stack"><img src="https://img.shields.io/badge/TECH_STACK-D4AF37?style=flat-square&labelColor=0D0D0D&color=D4AF37"/></a>
 <a href="#-github-analytics"><img src="https://img.shields.io/badge/ANALYTICS-0D0D0D?style=flat-square&labelColor=0D0D0D&color=D4AF37"/></a>
 <a href="#-now"><img src="https://img.shields.io/badge/NOW-D4AF37?style=flat-square&labelColor=0D0D0D&color=D4AF37"/></a>
 <a href="#-roadmap"><img src="https://img.shields.io/badge/ROADMAP-0D0D0D?style=flat-square&labelColor=0D0D0D&color=D4AF37"/></a>
 <a href="#-lets-connect"><img src="https://img.shields.io/badge/CONNECT-D4AF37?style=flat-square&labelColor=0D0D0D&color=D4AF37"/></a>
+
+<br/><br/>
+
+<!-- Live portfolio callout -->
+<a href="https://yashu440.github.io/yashu440/">
+<img src="https://img.shields.io/badge/🔗_VIEW_LIVE_INTERACTIVE_PORTFOLIO-FFD700?style=for-the-badge&labelColor=0D0D0D&color=FFD700" />
+</a>
+<br/>
+<sub>📌 Enable GitHub Pages on this repo (Settings → Pages → deploy from <code>main</code>) to make this link live — it points to the <code>index.html</code> built for this profile.</sub>
 
 </div>
 
@@ -219,7 +229,7 @@ A chess move-evaluation engine built around **minimax search with alpha-beta pru
 
 <br/>
 
-[**View Repo →**](https://github.com/yashu440/chess-engine)
+[**View Repo →**](https://github.com/yashu440/chess-engine) · [**Try it live →**](https://yashu440.github.io/yashu440/#playground)
 
 </div>
 </td>
@@ -304,7 +314,7 @@ flowchart TD
 ```
 
 <div align="center">
-<sub>📌 Sample diagram of the search/prune loop — replace with your actual engine's flow if it differs.</sub>
+<sub>📌 Want to see this loop actually run? Head to the <a href="#-algorithm-playground">Algorithm Playground</a> below.</sub>
 </div>
 
 <div align="center">
@@ -312,6 +322,27 @@ flowchart TD
 [![Star History Chart](https://api.star-history.com/svg?repos=yashu440/chess-engine&type=Date&theme=dark)](https://star-history.com/#yashu440/chess-engine&Date)
 
 <sub>📌 Star History tracks one repo at a time — pick whichever project you want to showcase growth for.</sub>
+
+</div>
+
+<div align="right"><sub><a href="#">↑ back to top</a></sub></div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:D4AF37,100:0D0D0D&height=3&width=100%25" width="100%"/>
+</div>
+
+## ♟️ Algorithm Playground
+
+<div align="center">
+
+**A live, step-through alpha-beta pruning demo lives on the interactive portfolio** — the exact search loop diagrammed above, running on a real tree with pruning highlighted node-by-node.
+
+<a href="https://yashu440.github.io/yashu440/#playground">
+<img src="https://img.shields.io/badge/▶_RUN_THE_LIVE_DEMO-FFD700?style=for-the-badge&labelColor=0D0D0D&color=FFD700" />
+</a>
+
+<br/><br/>
+<sub>📌 Markdown/READMEs can't run JavaScript, so this piece lives on the linked GitHub Pages site rather than inline here.</sub>
 
 </div>
 
@@ -432,29 +463,37 @@ flowchart TD
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashu440&bg_color=00000000&color=D4AF37&line=FFD700&point=D4AF37&hide_border=true&area=true&area_color=D4AF37" width="95%" />
 </div>
 
-### 🗓️ Isometric Contribution Calendar
+<br/>
 
 <div align="center">
+
+<details>
+<summary><b>🗓️ Isometric Contribution Calendar</b> — click to expand</summary>
+<br/>
 <img src="https://github-readme-stats.vercel.app/api?username=yashu440&show=isometric-commit-calendar&hide_border=true&bg_color=00000000&title_color=D4AF37&text_color=C9D1D9" width="95%" />
-</div>
+</details>
 
-### 🏆 Trophy Case
+<br/>
 
-<div align="center">
+<details>
+<summary><b>🏆 Trophy Case</b> — click to expand</summary>
+<br/>
 <img src="https://github-profile-trophy.vercel.app/?username=yashu440&theme=gruvbox&no-frame=true&row=1&column=6&margin-w=8" />
-</div>
+</details>
 
-### 🐍 Contribution Snake
+<br/>
 
-<div align="center">
-
+<details>
+<summary><b>🐍 Contribution Snake</b> — click to expand</summary>
+<br/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yashu440/yashu440/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yashu440/yashu440/output/github-contribution-grid-snake.svg" />
   <img src="https://raw.githubusercontent.com/yashu440/yashu440/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Contribution Snake animation" />
 </picture>
-
+<br/>
 <sub>📌 Requires the Platane/snk GitHub Action set up in a repo named exactly <code>yashu440</code>.</sub>
+</details>
 
 </div>
 
@@ -485,7 +524,8 @@ flowchart TD
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:D4AF37,100:0D0D0D&height=3&width=100%25" width="100%"/>
 </div>
 
-## 📜 Certifications & Achievements
+<details>
+<summary><h2 style="display:inline">📜 Certifications & Achievements — click to expand</h2></summary>
 
 <div align="center">
 
@@ -498,6 +538,8 @@ flowchart TD
 <sub>📌 Replace with real certifications (Coursera, NPTEL, hackathon wins, etc.) — link each title to the credential URL.</sub>
 
 </div>
+
+</details>
 
 <div align="right"><sub><a href="#">↑ back to top</a></sub></div>
 
@@ -567,10 +609,11 @@ timeline
 <a href="https://linkedin.com/in/sampathi-yaswanth-a620ba37a"><img src="https://img.shields.io/badge/LinkedIn-D4AF37?style=for-the-badge&logo=linkedin&logoColor=000000" /></a>
 <a href="mailto:yaswanthsampathi@gmail.com"><img src="https://img.shields.io/badge/Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=D4AF37" /></a>
 <a href="https://github.com/yashu440"><img src="https://img.shields.io/badge/GitHub-D4AF37?style=for-the-badge&logo=github&logoColor=000000" /></a>
+<a href="https://yashu440.github.io/yashu440/"><img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=vercel&logoColor=000000" /></a>
 
 <br/><br/>
 
-<sub>⚡ Thanks for stopping by — feel free to star a repo or drop a message.</sub>
+<sub>⚡ Thanks for stopping by — feel free to star a repo, run the pruning demo, or drop a message.</sub>
 
 <br/><br/>
 
