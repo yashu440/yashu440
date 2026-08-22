@@ -388,14 +388,6 @@ flowchart TD
 <div align="center">
 
 <details>
-<summary><b>🗓️ Isometric Contribution Calendar</b> — click to expand</summary>
-<br/>
-<img src="https://github-readme-stats.vercel.app/api?username=yashu440&show=isometric-commit-calendar&hide_border=true&bg_color=00000000&title_color=D4AF37&text_color=C9D1D9" width="95%" />
-</details>
-
-<br/>
-
-<details>
 <summary><b>🏆 Trophy Case</b> — click to expand</summary>
 <br/>
 <img src="https://github-profile-trophy.vercel.app/?username=yashu440&theme=gruvbox&no-frame=true&row=1&column=6&margin-w=8" />
