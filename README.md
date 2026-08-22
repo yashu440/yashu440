@@ -46,11 +46,9 @@
 <br/><br/>
 
 <!-- Live portfolio callout -->
-<a href="https://yashu440.github.io/yashu440/">
+<a href="https://yashuuu.ai.studio">
 <img src="https://img.shields.io/badge/🔗_VIEW_LIVE_INTERACTIVE_PORTFOLIO-FFD700?style=for-the-badge&labelColor=0D0D0D&color=FFD700" />
 </a>
-<br/>
-<sub>📌 Enable GitHub Pages on this repo (Settings → Pages → deploy from <code>main</code>) to make this link live — it points to the <code>index.html</code> built for this profile.</sub>
 
 </div>
 
