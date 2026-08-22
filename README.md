@@ -35,12 +35,9 @@
 <br/>
 
 <a href="#-about-me"><img src="https://img.shields.io/badge/ABOUT-0D0D0D?style=flat-square&labelColor=0D0D0D&color=D4AF37"/></a>
-<a href="#%EF%B8%8F-skill-architecture"><img src="https://img.shields.io/badge/SKILL_MAP-D4AF37?style=flat-square&labelColor=0D0D0D&color=D4AF37"/></a>
 <a href="#%EF%B8%8F-featured-projects"><img src="https://img.shields.io/badge/PROJECTS-0D0D0D?style=flat-square&labelColor=0D0D0D&color=D4AF37"/></a>
-<a href="#-algorithm-playground"><img src="https://img.shields.io/badge/PLAYGROUND-FFD700?style=flat-square&labelColor=0D0D0D&color=FFD700"/></a>
 <a href="#-tech-stack"><img src="https://img.shields.io/badge/TECH_STACK-D4AF37?style=flat-square&labelColor=0D0D0D&color=D4AF37"/></a>
 <a href="#-github-analytics"><img src="https://img.shields.io/badge/ANALYTICS-0D0D0D?style=flat-square&labelColor=0D0D0D&color=D4AF37"/></a>
-<a href="#-now"><img src="https://img.shields.io/badge/NOW-D4AF37?style=flat-square&labelColor=0D0D0D&color=D4AF37"/></a>
 <a href="#-roadmap"><img src="https://img.shields.io/badge/ROADMAP-0D0D0D?style=flat-square&labelColor=0D0D0D&color=D4AF37"/></a>
 <a href="#-lets-connect"><img src="https://img.shields.io/badge/CONNECT-D4AF37?style=flat-square&labelColor=0D0D0D&color=D4AF37"/></a>
 
@@ -152,58 +149,6 @@ me = Yaswanth()
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:D4AF37,100:0D0D0D&height=3&width=100%25" width="100%"/>
 </div>
 
-## 🗺️ Skill Architecture
-
-```mermaid
-graph LR
-    A[Yaswanth] --> B[AI / ML]
-    A --> C[Algorithms & Search]
-    A --> D[Backend / Web]
-    A --> E[Currently Exploring]
-
-    B --> B1[Generative AI]
-    B --> B2[PyTorch / NumPy / Pandas]
-    B --> B3[GenAI Learning Platform]
-
-    C --> C1[Minimax + Alpha-Beta Pruning]
-    C --> C2[Competitive Programming - Python]
-    C --> C3[Chess Engine]
-
-    D --> D1[Flask / Django]
-    D --> D2[SQLite + Tkinter]
-    D --> D3[Task Manager]
-
-    E --> E1[Advanced ML Systems]
-    E --> E2[MLOps Basics]
-
-    style A fill:#D4AF37,stroke:#FFD700,color:#000,stroke-width:2px
-    style B fill:#0D0D0D,stroke:#D4AF37,color:#D4AF37,stroke-width:1px
-    style C fill:#0D0D0D,stroke:#D4AF37,color:#D4AF37,stroke-width:1px
-    style D fill:#0D0D0D,stroke:#D4AF37,color:#D4AF37,stroke-width:1px
-    style E fill:#0D0D0D,stroke:#D4AF37,color:#D4AF37,stroke-width:1px
-    style B1 fill:#1a1a1a,stroke:#FFD700,color:#FFD700
-    style B2 fill:#1a1a1a,stroke:#FFD700,color:#FFD700
-    style B3 fill:#1a1a1a,stroke:#FFD700,color:#FFD700
-    style C1 fill:#1a1a1a,stroke:#FFD700,color:#FFD700
-    style C2 fill:#1a1a1a,stroke:#FFD700,color:#FFD700
-    style C3 fill:#1a1a1a,stroke:#FFD700,color:#FFD700
-    style D1 fill:#1a1a1a,stroke:#FFD700,color:#FFD700
-    style D2 fill:#1a1a1a,stroke:#FFD700,color:#FFD700
-    style D3 fill:#1a1a1a,stroke:#FFD700,color:#FFD700
-    style E1 fill:#1a1a1a,stroke:#FFD700,color:#FFD700
-    style E2 fill:#1a1a1a,stroke:#FFD700,color:#FFD700
-```
-
-<div align="center">
-<sub>📌 GitHub renders Mermaid diagrams natively in READMEs — no extra setup needed.</sub>
-</div>
-
-<div align="right"><sub><a href="#">↑ back to top</a></sub></div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:D4AF37,100:0D0D0D&height=3&width=100%25" width="100%"/>
-</div>
-
 ## 🛠️ Featured Projects
 
 <table width="100%">
@@ -229,7 +174,7 @@ A chess move-evaluation engine built around **minimax search with alpha-beta pru
 
 <br/>
 
-[**View Repo →**](https://github.com/yashu440/chess-engine) · [**Try it live →**](https://yashu440.github.io/yashu440/#playground)
+[**View Repo →**](https://github.com/yashu440/chess-engine)
 
 </div>
 </td>
@@ -314,35 +259,10 @@ flowchart TD
 ```
 
 <div align="center">
-<sub>📌 Want to see this loop actually run? Head to the <a href="#-algorithm-playground">Algorithm Playground</a> below.</sub>
-</div>
-
-<div align="center">
 
 [![Star History Chart](https://api.star-history.com/svg?repos=yashu440/chess-engine&type=Date&theme=dark)](https://star-history.com/#yashu440/chess-engine&Date)
 
 <sub>📌 Star History tracks one repo at a time — pick whichever project you want to showcase growth for.</sub>
-
-</div>
-
-<div align="right"><sub><a href="#">↑ back to top</a></sub></div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:D4AF37,100:0D0D0D&height=3&width=100%25" width="100%"/>
-</div>
-
-## ♟️ Algorithm Playground
-
-<div align="center">
-
-**A live, step-through alpha-beta pruning demo lives on the interactive portfolio** — the exact search loop diagrammed above, running on a real tree with pruning highlighted node-by-node.
-
-<a href="https://yashu440.github.io/yashu440/#playground">
-<img src="https://img.shields.io/badge/▶_RUN_THE_LIVE_DEMO-FFD700?style=for-the-badge&labelColor=0D0D0D&color=FFD700" />
-</a>
-
-<br/><br/>
-<sub>📌 Markdown/READMEs can't run JavaScript, so this piece lives on the linked GitHub Pages site rather than inline here.</sub>
 
 </div>
 
@@ -481,41 +401,6 @@ flowchart TD
 <img src="https://github-profile-trophy.vercel.app/?username=yashu440&theme=gruvbox&no-frame=true&row=1&column=6&margin-w=8" />
 </details>
 
-<br/>
-
-<details>
-<summary><b>🐍 Contribution Snake</b> — click to expand</summary>
-<br/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yashu440/yashu440/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yashu440/yashu440/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/yashu440/yashu440/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Contribution Snake animation" />
-</picture>
-<br/>
-<sub>📌 Requires the Platane/snk GitHub Action set up in a repo named exactly <code>yashu440</code>.</sub>
-</details>
-
-</div>
-
-<div align="right"><sub><a href="#">↑ back to top</a></sub></div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:D4AF37,100:0D0D0D&height=3&width=100%25" width="100%"/>
-</div>
-
-## 🌙 Now
-
-<div align="center">
-
-| Status | Detail |
-|:---|:---|
-| 🔭 Working on | GenAI Learning Platform — adding adaptive quiz generation |
-| 🧪 Learning | PyTorch fundamentals + advanced competitive programming |
-| ✍️ Writing | Notes on minimax pruning heuristics |
-| 🎯 This month | Ship one production-grade AI feature end-to-end |
-
-<sub>📌 Inspired by <a href="https://nownownow.com/about">nownownow.com</a> — update this table whenever your focus shifts.</sub>
-
 </div>
 
 <div align="right"><sub><a href="#">↑ back to top</a></sub></div>
@@ -613,7 +498,7 @@ timeline
 
 <br/><br/>
 
-<sub>⚡ Thanks for stopping by — feel free to star a repo, run the pruning demo, or drop a message.</sub>
+<sub>⚡ Thanks for stopping by — feel free to star a repo or drop a message.</sub>
 
 <br/><br/>
 
