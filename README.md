@@ -19,7 +19,7 @@
 <a href="mailto:yaswanthsampathi@gmail.com"><img src="https://img.shields.io/badge/Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=D4AF37" /></a>
 <a href="https://github.com/yashu440"><img src="https://img.shields.io/badge/GitHub-D4AF37?style=for-the-badge&logo=github&logoColor=000000" /></a>
 <a href="https://www.instagram.com/_yashu.__07"><img src="https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=D4AF37" /></a>
-<a href="https://yashuuu.ai.studio"><img src="https://img.shields.io/badge/Portfolio-D4AF37?style=for-the-badge&logo=vercel&logoColor=000000" /></a>
+<a href="https://yashuuuuuu.ai.studio"><img src="https://img.shields.io/badge/Portfolio-D4AF37?style=for-the-badge&logo=vercel&logoColor=000000" /></a>
 <img src="https://komarev.com/ghpvc/?username=yashu440&style=for-the-badge&color=0D0D0D&abbreviated=true" alt="profile views"/>
 
 <br/><br/>
@@ -46,7 +46,7 @@
 <br/><br/>
 
 <!-- Live portfolio callout -->
-<a href="https://yashuuu.ai.studio">
+<a href="https://yashuuuuuu.ai.studio">
 <img src="https://img.shields.io/badge/🔗_VIEW_LIVE_INTERACTIVE_PORTFOLIO-FFD700?style=for-the-badge&labelColor=0D0D0D&color=FFD700" />
 </a>
 
@@ -487,7 +487,7 @@ timeline
 <a href="mailto:yaswanthsampathi@gmail.com"><img src="https://img.shields.io/badge/Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=D4AF37" /></a>
 <a href="https://github.com/yashu440"><img src="https://img.shields.io/badge/GitHub-D4AF37?style=for-the-badge&logo=github&logoColor=000000" /></a>
 <a href="https://www.instagram.com/_yashu.__07"><img src="https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=D4AF37" /></a>
-<a href="https://yashuuu.ai.studio"><img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=vercel&logoColor=000000" /></a>
+<a href="https://yashuuuuuu.ai.studio"><img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=vercel&logoColor=000000" /></a>
 
 <br/><br/>
 
