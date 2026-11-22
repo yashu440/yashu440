@@ -76,31 +76,6 @@ yaswanth@dev:~$ echo $STATUS
 
 yaswanth@dev:~$ uptime
 > up 2 years, still compiling ambition
-```
-
-```python
-class Yaswanth:
-    def __init__(self):
-        self.role        = "CSE Student @ Kalasalingam Academy of Research and Education"
-        self.focus       = ["AI/ML Engineering", "Algorithms & Search", "Applied GenAI"]
-        self.building    = "AI-integrated, algorithmically-grounded web applications"
-        self.learning    = ["Advanced ML systems", "Competitive programming (Python)"]
-        self.collab_open = ["AI/ML research", "Algorithmic projects", "Open source"]
-
-    def reach_me_about(self):
-        return ["Python", "Machine Learning", "Game AI / Search", "Flask", "Java"]
-
-    def __repr__(self):
-        return f"<Yaswanth focus={self.focus[0]} status='building'>"
-
-me = Yaswanth()
-```
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
-
-<div align="center">
 
 ###  Currently
 
