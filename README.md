@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,35:3D2F0A,60:D4AF37,100:0D0D0D&height=250&section=header&text=Sampathi%20Yaswanth&fontSize=48&fontColor=FFD700&animation=fadeIn&fontAlignY=36&desc=I%20don%27t%20play%20the%20game.%20I%20search%20the%20game%20tree.&descAlignY=56&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,35:3D2F0A,60:D4AF37,100:0D0D0D&height=250&section=header&text=SAMPATHI%20YASWANTH&fontSize=46&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=I%20don%27t%20play%20the%20game.%20I%20search%20the%20game%20tree.&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1100&color=FFD700&center=true&vCenter=true&width=760&lines=Evaluating+positions%2C+pruning+bad+branches;Minimax+%7C+Alpha-Beta+%7C+Generative+AI;CSE+%40+Kalasalingam+Academy+(KARE);Depth+%E2%88%9E+%E2%80%94+currently+shipping+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1100&color=FFD700&center=true&vCenter=true&width=780&lines=%24+.%2Fyaswanth+--uci;info+depth+12+score+cp+%2B340+pv+Minimax+AlphaBeta+GenAI;CSE+%40+Kalasalingam+Academy+(KARE);bestmove+ship_something_new" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -18,85 +18,100 @@
 
 <br/>
 
-## ♟️ Player Card
+## > boot sequence
 
-```python
-class Yaswanth:
-    role      = "CSE student · AI/ML engineer-in-training"
-    college   = "Kalasalingam Academy of Research and Education"
-    plays     = ["Minimax", "Alpha-Beta", "Generative AI", "Competitive Programming"]
-    languages = ["Python", "Java", "JavaScript", "SQL"]
-    peak_time = "11 PM – 2 AM"
-    fuel      = "coffee"
+```text
+$ ./yaswanth --uci
 
-    def current_move(self):
-        return "Building AI-integrated web apps + sharpening CP fundamentals"
+id name        Sampathi Yaswanth
+id author      Kalasalingam Academy of Research and Education
+option Role    type combo default "CSE student, AI/ML engineer-in-training"
+option Search  type combo default "minimax + alpha-beta"
+option Stack   type combo default "Python | Java | JavaScript | SQL"
+option Peak    type string default "23:00 - 02:00"
+option Fuel    type string default "coffee"
+uciok
 
-    def open_to(self):
-        return ["AI/ML research", "algorithmic collabs", "AI engineering roles"]
+$ isready
+readyok
 
-    def philosophy(self):
-        return "Clean code is a form of respect."
+$ go infinite
+info string  building AI-integrated web apps
+info string  sharpening ML fundamentals and competitive programming
+info string  open to research, algorithmic collabs, AI engineering roles
 ```
-
-<div align="center">
-
-| 🧠 Thinks in | ⚡ Optimizes for | 🎯 Aiming at |
-|:---:|:---:|:---:|
-| Game trees | Correct, readable code | Applied ML · Research · AI engineering |
-
-</div>
 
 <br/>
 
-## 🏆 Featured Projects — *The Opening Book*
+## > position on the board
+
+```text
+    a b c d e f g h
+ 8  r n b q k b n r     Opening book : Python, Java, DSA
+ 7  p p p p p p p p     Middlegame   : Search, ML, GenAI, Web
+ 6  . . . . . . . .     Endgame      : Applied ML research
+ 5  . . . . . . . .
+ 4  . . . . P . . .     Last move    : 1. e4  (new project started)
+ 3  . . . . . . . .     Evaluation   : +3.4  (and improving)
+ 2  P P P P . P P P
+ 1  R N B Q K B N R     Side to move : Yaswanth
+```
+
+<br/>
+
+## > featured projects
 
 <table width="100%">
 <tr>
 <td width="33%" valign="top" align="center">
 
-### ♛ Chess Engine
-Move-evaluation engine using **minimax + alpha-beta pruning**, with capture-first move ordering to cut the search space.
+### Chess Engine
+
+Move-evaluation engine built on **minimax with alpha-beta pruning**. Capture-first move ordering cuts the search space before it explodes.
 
 `Python` `Game AI` `Algorithms`
 
 ![Stars](https://img.shields.io/github/stars/yashu440/chess-engine?style=flat-square&color=D4AF37&labelColor=0D0D0D)
 ![Last Commit](https://img.shields.io/github/last-commit/yashu440/chess-engine?style=flat-square&color=FFD700&labelColor=0D0D0D)
 
-[**View Repo →**](https://github.com/yashu440/chess-engine)
+<a href="https://github.com/yashu440/chess-engine"><img src="https://img.shields.io/badge/OPEN_REPOSITORY-D4AF37?style=for-the-badge&logo=github&logoColor=000"/></a>
 
 </td>
 <td width="33%" valign="top" align="center">
 
-### 🤖 GenAI Learning Platform
-A **Flask** web platform that uses generative AI to deliver personalized, adaptive learning for students.
+### GenAI Learning Platform
+
+A **Flask** platform where generative AI shapes personalized, adaptive learning paths for students.
 
 `Flask` `Python` `GenAI`
 
 ![Stars](https://img.shields.io/github/stars/yashu440/genai-learning-platform?style=flat-square&color=D4AF37&labelColor=0D0D0D)
 ![Last Commit](https://img.shields.io/github/last-commit/yashu440/genai-learning-platform?style=flat-square&color=FFD700&labelColor=0D0D0D)
 
-[**View Repo →**](https://github.com/yashu440/genai-learning-platform)
+<a href="https://github.com/yashu440/genai-learning-platform"><img src="https://img.shields.io/badge/OPEN_REPOSITORY-D4AF37?style=for-the-badge&logo=github&logoColor=000"/></a>
 
 </td>
 <td width="33%" valign="top" align="center">
 
-### ✅ Task Manager
-Desktop productivity app with full **CRUD**, persistent local storage and a clean Tkinter UI.
+### Task Manager
+
+Desktop productivity app with full **CRUD**, persistent local storage and a clean Tkinter interface.
 
 `Python` `SQLite` `Tkinter`
 
 ![Stars](https://img.shields.io/github/stars/yashu440/task-manager?style=flat-square&color=D4AF37&labelColor=0D0D0D)
 ![Last Commit](https://img.shields.io/github/last-commit/yashu440/task-manager?style=flat-square&color=FFD700&labelColor=0D0D0D)
 
-[**View Repo →**](https://github.com/yashu440/task-manager)
+<a href="https://github.com/yashu440/task-manager"><img src="https://img.shields.io/badge/OPEN_REPOSITORY-D4AF37?style=for-the-badge&logo=github&logoColor=000"/></a>
 
 </td>
 </tr>
 </table>
 
 <details>
-<summary><b>♟️ How my Chess Engine thinks (click to expand)</b></summary>
+<summary><b>How the engine thinks (expand the search tree)</b></summary>
+
+<br/>
 
 ```mermaid
 flowchart TD
@@ -111,7 +126,7 @@ flowchart TD
     F -- No --> H[Update Beta]
     G --> I{Alpha >= Beta?}
     H --> I
-    I -- Yes --> J[✂️ Prune Branch]
+    I -- Yes --> J[Prune Branch]
     I -- No --> B
 
     style A fill:#D4AF37,stroke:#FFD700,color:#000
@@ -123,17 +138,20 @@ flowchart TD
 
 <br/>
 
-## 🧩 Skills — *My Pieces on the Board*
+## > evaluation function
+
+How I score my own skills, the same way the engine scores a position. Higher is better, and it keeps being re-searched.
 
 <div align="center">
 
-| Piece | Skill | Role |
-|:---:|:---|:---|
-| ♛ **Queen** | Python | Most versatile — AI, backend, scripting |
-| ♜ **Rook** | Algorithms & Search | Straight-line power: minimax, pruning, DSA |
-| ♝ **Bishop** | Machine Learning · Generative AI | Cutting diagonally into the future |
-| ♞ **Knight** | Flask · Django · Node.js | Jumps across the stack |
-| ♟️ **Pawn** | Java · SQL · HTML/CSS/JS | The foundation everything advances from |
+| Component | Weight | Depth searched |
+|:---|:---:|:---|
+| Python | 0.85 | AI, backend, scripting, tooling |
+| Algorithms and Search | 0.75 | Minimax, pruning, DSA, competitive programming |
+| Flask / Django | 0.75 | Full-stack web, REST APIs |
+| Java | 0.70 | OOP, data structures |
+| SQL | 0.70 | Relational design, queries |
+| Machine Learning | 0.65 | Fundamentals, PyTorch, NumPy, Pandas |
 
 <br/>
 
@@ -147,7 +165,7 @@ flowchart TD
 
 <br/>
 
-## 📊 GitHub Analytics
+## > telemetry
 
 <div align="center">
 
@@ -166,28 +184,31 @@ flowchart TD
 
 <br/>
 
-## 🗺️ Roadmap — *Opening → Middlegame → Endgame*
+## > game record (PGN)
 
-```mermaid
-timeline
-    title The Game Plan
-    Opening (2024) : Foundations in Python, Java, DSA
-                   : Started competitive programming
-    Middlegame (2025) : Chess Engine - Minimax + Alpha-Beta
-                      : Task Manager - Tkinter + SQLite
-                      : GenAI Learning Platform - Flask
-    Endgame (2026) : Placements 🎯
-                   : Deeper applied ML
-    Checkmate : AI / ML engineering role
+```text
+[Event   "Career"]
+[Site    "Kalasalingam Academy, India"]
+[White   "Sampathi Yaswanth"]
+[Black   "The Unknown"]
+[Result  "*"]
+
+1. Python Java        { foundations, DSA, first line of competitive programming }
+2. Minimax AlphaBeta  { chess engine, search pruning that finally clicked }
+3. Tkinter SQLite     { task manager, a full CRUD app end to end }
+4. Flask GenAI        { learning platform, AI wired into a real web app }
+5. Placements ...     { 2026, the position is being calculated }
+6. ML Research ...    { deeper applied machine learning }
+7. AI Engineer #      { checkmate, still ahead on the clock }
 ```
 
 <br/>
 
-## 🤝 Let's Connect
+## > make your move
 
 <div align="center">
 
-> *"The best way to learn is to build, break, and rebuild — better."*
+> *"The best way to learn is to build, break, and rebuild, better."*
 
 <a href="https://www.linkedin.com/in/sampathi-yaswanth-a620ba37a/"><img src="https://img.shields.io/badge/LinkedIn-D4AF37?style=for-the-badge&logo=linkedin&logoColor=000"/></a>
 <a href="mailto:yaswanthsampathi@gmail.com"><img src="https://img.shields.io/badge/Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=D4AF37"/></a>
