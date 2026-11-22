@@ -59,6 +59,23 @@ info string  open to research, algorithmic collabs, AI engineering roles
 
 <br/>
 
+## > play a round
+
+<div align="center">
+
+<a href="https://yashu440.github.io/night-lane/"><img src="assets/night-lane.svg" alt="Night Lane: animated top-down driving game preview" width="100%"/></a>
+
+<br/>
+
+<a href="https://yashu440.github.io/night-lane/"><img src="https://img.shields.io/badge/PLAY_NIGHT_LANE-D4AF37?style=for-the-badge&logo=googlechrome&logoColor=000"/></a>
+<a href="https://github.com/yashu440/night-lane"><img src="https://img.shields.io/badge/VIEW_SOURCE-0D0D0D?style=for-the-badge&logo=github&logoColor=D4AF37"/></a>
+
+<sub>Arrow keys or A / D to steer. Dodge traffic, grab the gold. Works on phone too.</sub>
+
+</div>
+
+<br/>
+
 ## > featured projects
 
 <table width="100%">
