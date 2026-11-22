@@ -8,10 +8,10 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/🎓_CSE_Student-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=D4AF37" />
-<img src="https://img.shields.io/badge/🧠_AI%2FML_Focus-D4AF37?style=for-the-badge&labelColor=0D0D0D&color=D4AF37" />
-<img src="https://img.shields.io/badge/♟️_Algorithms_%26_Search-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=D4AF37" />
-<img src="https://img.shields.io/badge/🤝_Open_to_Collab-D4AF37?style=for-the-badge&labelColor=0D0D0D&color=D4AF37" />
+<img src="https://img.shields.io/badge/_CSE_Student-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=D4AF37" />
+<img src="https://img.shields.io/badge/_AI%2FML_Focus-D4AF37?style=for-the-badge&labelColor=0D0D0D&color=D4AF37" />
+<img src="https://img.shields.io/badge/_Algorithms_%26_Search-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=D4AF37" />
+<img src="https://img.shields.io/badge/_Open_to_Collab-D4AF37?style=for-the-badge&labelColor=0D0D0D&color=D4AF37" />
 
 <br/><br/>
 
@@ -60,7 +60,7 @@
 
 <br/>
 
-## 👋 About Me
+##  About Me
 
 I'm a Computer Science student at **Kalasalingam Academy of Research and Education**, focused on **applied AI/ML and algorithmic systems**. I enjoy the problems where intelligence meets engineering — search algorithms with real game-tree pruning, generative AI features wired into production-style web apps, and the kind of competitive programming that forces clean, correct code under pressure.
 
@@ -102,42 +102,42 @@ me = Yaswanth()
 
 <div align="center">
 
-### 🎯 Currently
+###  Currently
 
 </div>
 
-- 🔭 Building AI-integrated web applications
-- 🌱 Sharpening ML fundamentals & competitive programming
-- 🤝 Open to AI/ML research & algorithmic collaborations
-- 💬 Ask me about Python, search algorithms, or generative AI
+-  Building AI-integrated web applications
+-  Sharpening ML fundamentals & competitive programming
+-  Open to AI/ML research & algorithmic collaborations
+-  Ask me about Java, Python, search algorithms, or generative AI
 
 </td>
 <td width="33%" valign="top">
 
 <div align="center">
 
-### 📈 Goals
+###  Goals
 
 </div>
 
-- 🎓 Go deeper into applied Machine Learning
-- 🧠 Push further into algorithmic problem solving (CP)
-- 🛠️ Ship production-grade AI-powered projects
-- 🚀 Land impactful research / AI engineering roles
+-  Go deeper into applied Machine Learning
+-  Push further into algorithmic problem solving (CP)
+-  Ship production-grade AI-powered projects
+-  Land impactful research / AI engineering roles
 
 </td>
 <td width="33%" valign="top">
 
 <div align="center">
 
-### ✨ Fun Facts
+###  Fun Facts
 
 </div>
 
-- ♟️ Thinks in game trees, even off the board
-- 🌙 Most productive between 11 PM – 2 AM
-- 📐 Believes clean code is a form of respect
-- ☕ Debugs better with coffee, worse without it
+-  Thinks in game trees, even off the board
+-  Most productive between 11 PM – 2 AM
+-  Believes clean code is a form of respect
+-  Debugs better with coffee, worse without it
 
 </td>
 </tr>
@@ -149,7 +149,7 @@ me = Yaswanth()
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:D4AF37,100:0D0D0D&height=3&width=100%25" width="100%"/>
 </div>
 
-## 🛠️ Featured Projects
+##  Featured Projects
 
 <table width="100%">
 <tr>
@@ -157,7 +157,7 @@ me = Yaswanth()
 
 <div align="center">
 
-<h3>♟️ Chess Engine</h3>
+<h3> Chess Engine</h3>
 
 A chess move-evaluation engine built around **minimax search with alpha-beta pruning** for efficient, intelligent gameplay decisions.
 
@@ -232,10 +232,10 @@ A desktop productivity app with full **CRUD** functionality, persistent local st
 </table>
 
 <div align="center">
-<sub>📌 Swap in your real repo URLs above once they're public.</sub>
+<sub> Swap in your real repo URLs above once they're public.</sub>
 </div>
 
-### 🧠 Chess Engine — Architecture Peek
+###  Chess Engine — Architecture Peek
 
 ```mermaid
 flowchart TD
@@ -248,7 +248,7 @@ flowchart TD
     F -- No --> H[Beta Update]
     G --> I{Alpha >= Beta?}
     H --> I
-    I -- Yes --> J[Prune Branch ✂️]
+    I -- Yes --> J[Prune Branch ]
     I -- No --> B
     B -- Yes --> K[Static Evaluation]
     K --> L[Return Score]
@@ -262,7 +262,7 @@ flowchart TD
 
 [![Star History Chart](https://api.star-history.com/svg?repos=yashu440/chess-engine&type=Date&theme=dark)](https://star-history.com/#yashu440/chess-engine&Date)
 
-<sub>📌 Star History tracks one repo at a time — pick whichever project you want to showcase growth for.</sub>
+<sub> Star History tracks one repo at a time — pick whichever project you want to showcase growth for.</sub>
 
 </div>
 
@@ -272,7 +272,7 @@ flowchart TD
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:D4AF37,100:0D0D0D&height=3&width=100%25" width="100%"/>
 </div>
 
-## 💻 Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -314,7 +314,7 @@ flowchart TD
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:D4AF37,100:0D0D0D&height=3&width=100%25" width="100%"/>
 </div>
 
-## ⚡ Skill Proficiency
+##  Skill Proficiency
 
 <div align="center">
 
@@ -327,14 +327,14 @@ flowchart TD
 | Java | ![](https://progress-bar.dev/70/?color=D4AF37&width=220&suffix=%25) |
 | SQL | ![](https://progress-bar.dev/70/?color=FFD700&width=220&suffix=%25) |
 
-<sub>📌 Adjust the numbers in each URL to reflect your real comfort level.</sub>
+<sub> Adjust the numbers in each URL to reflect your real comfort level.</sub>
 
 <br/><br/>
 
 <img width="55%" src="https://quickchart.io/chart?c={type:'radar',data:{labels:['Python','ML','Algorithms','Flask%2FDjango','Java','SQL'],datasets:[{label:'Proficiency',data:[85,65,75,75,70,70],backgroundColor:'rgba(212,175,55,0.35)',borderColor:'%23D4AF37',pointBackgroundColor:'%23FFD700'}]},options:{plugins:{legend:{display:false}},scales:{r:{angleLines:{color:'%233a3a3a'},grid:{color:'%232a2a2a'},pointLabels:{color:'%23D4AF37',font:{size:12}},ticks:{display:false,max:100,min:0}}}},backgroundColor:'transparent'}" alt="Skill radar chart"/>
 
 <br/>
-<sub>📌 Radar view of the same numbers above — generated live via <a href="https://quickchart.io">QuickChart</a>.</sub>
+<sub> Radar view of the same numbers above — generated live via <a href="https://quickchart.io">QuickChart</a>.</sub>
 
 </div>
 
@@ -344,7 +344,7 @@ flowchart TD
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:D4AF37,100:0D0D0D&height=3&width=100%25" width="100%"/>
 </div>
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
 
@@ -377,7 +377,7 @@ flowchart TD
 </tr>
 </table>
 
-### 📈 Contribution Activity
+###  Contribution Activity
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashu440&bg_color=00000000&color=D4AF37&line=FFD700&point=D4AF37&hide_border=true&area=true&area_color=D4AF37" width="95%" />
@@ -402,7 +402,7 @@ flowchart TD
 </div>
 
 <details>
-<summary><h2 style="display:inline">📜 Certifications & Achievements — click to expand</h2></summary>
+<summary><h2 style="display:inline"> Certifications & Achievements — click to expand</h2></summary>
 
 <div align="center">
 
@@ -412,7 +412,7 @@ flowchart TD
 | 🏅 Add your certificate title here | Issuing platform | 20XX |
 | 🏅 Add your certificate title here | Issuing platform | 20XX |
 
-<sub>📌 Replace with real certifications (Coursera, NPTEL, hackathon wins, etc.) — link each title to the credential URL.</sub>
+<sub> Replace with real certifications (Coursera, NPTEL, hackathon wins, etc.) — link each title to the credential URL.</sub>
 
 </div>
 
@@ -424,7 +424,7 @@ flowchart TD
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:D4AF37,100:0D0D0D&height=3&width=100%25" width="100%"/>
 </div>
 
-## 🧭 Roadmap
+##  Roadmap
 
 ```mermaid
 timeline
@@ -434,10 +434,8 @@ timeline
     2025 : Chess Engine (Minimax + Alpha-Beta)
          : Task Manager (Tkinter + SQLite)
          : GenAI Learning Platform (Flask)
-    2026 : Deeper ML systems (PyTorch)
-         : Advanced competitive programming
-         : Ship production-grade AI projects
-    Next : AI/ML research or engineering role
+    2026 : placements🫩
+    Next :  engineering role
 ```
 
 <div align="right"><sub><a href="#">↑ back to top</a></sub></div>
@@ -446,7 +444,7 @@ timeline
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:D4AF37,100:0D0D0D&height=3&width=100%25" width="100%"/>
 </div>
 
-### 🌍 Visitor Map
+###  Visitor Map
 
 <div align="center">
 
@@ -460,7 +458,7 @@ timeline
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:D4AF37,100:0D0D0D&height=3&width=100%25" width="100%"/>
 </div>
 
-## ☕ Support
+##  Support
 
 <div align="center">
 
@@ -475,7 +473,7 @@ timeline
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:D4AF37,100:0D0D0D&height=3&width=100%25" width="100%"/>
 </div>
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
@@ -491,7 +489,7 @@ timeline
 
 <br/><br/>
 
-<sub>⚡ Thanks for stopping by — feel free to star a repo or drop a message.</sub>
+<sub> Thanks for stopping by — feel free to star a repo or drop a message.</sub>
 
 <br/><br/>
 
